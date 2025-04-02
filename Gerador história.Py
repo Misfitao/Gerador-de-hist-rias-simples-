@@ -29,5 +29,5 @@ def jogo():
     print("\nAqui está a sua história:\n")
     print(historia)
 
-# Executa o jogo
+
 jogo()
