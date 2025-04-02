@@ -1,0 +1,1 @@
+Um gerador de histórias simples que cria narrativas curtas e aleatórias combinando personagens, cenários e eventos pré-definidos. Ideal para exercícios criativos, jogos de escrita e projetos de aprendizado.
